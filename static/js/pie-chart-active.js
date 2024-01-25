@@ -1,0 +1,1 @@
+(function(a){a(document).on("ready",function(){a(".chart").easyPieChart({scaleColor:"",lineWidth:5,scaleLength:10,size:120,})})})(jQuery);
